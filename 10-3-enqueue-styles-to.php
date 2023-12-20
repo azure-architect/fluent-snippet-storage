@@ -4,13 +4,13 @@
 *
 * @description: https://snippetclub.com/how-to-enqueue-styles-and-scripts-in-generatepress/#3-enqueue-styles-to-gutenberg-editor-head
 * @tags: styles, enqueue,
-* @group: 
+* @group: The Snippet Club
 * @name: 3. Enqueue styles to Gutenberg editor head
 * @type: PHP
 * @status: published
 * @created_by: 
 * @created_at: 
-* @updated_at: 2023-12-19 22:56:55
+* @updated_at: 2023-12-19 23:21:17
 * @is_valid: 
 * @updated_by: 
 * @priority: 10

@@ -9,10 +9,10 @@ https://snippetclub.com/add-custom-attributes-to-fluent-form-fields/
 * @group: The Snippet Club
 * @name: Add Attributes to form fields Fluent Forms
 * @type: PHP
-* @status: draft
+* @status: published
 * @created_by: 
 * @created_at: 
-* @updated_at: 2023-12-19 23:00:49
+* @updated_at: 2023-12-19 23:21:02
 * @is_valid: 
 * @updated_by: 
 * @priority: 10
