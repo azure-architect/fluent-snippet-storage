@@ -235,6 +235,56 @@ return array (
       ),
       'file_name' => '12-shiny-wipe-across-an.php',
     ),
+    '13-background-screened-and-overlayed.php' => 
+    array (
+      'name' => 'html-background screened and overlayed with bright text',
+      'description' => 'use with matching css snippet',
+      'type' => 'php_content',
+      'status' => 'draft',
+      'tags' => 'overlays',
+      'created_at' => '',
+      'updated_at' => '2023-12-23 03:54:55',
+      'run_at' => 'all',
+      'priority' => 10,
+      'group' => 'overlays',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'file_name' => '13-background-screened-and-overlayed.php',
+    ),
+    '14-screened-overlay-with-clear.php' => 
+    array (
+      'name' => 'CSS-background screened and overlayed with bright text',
+      'description' => 'Use with matching Html snippet',
+      'type' => 'css',
+      'status' => 'draft',
+      'tags' => 'overlays',
+      'created_at' => '',
+      'updated_at' => '2023-12-23 03:55:09',
+      'run_at' => 'all',
+      'priority' => 10,
+      'group' => 'overlays',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'file_name' => '14-screened-overlay-with-clear.php',
+    ),
     '7-allow-svgs.php' => 
     array (
       'name' => 'Allow SVG\'s',
@@ -326,7 +376,7 @@ return array (
   array (
     'secret_key' => '7e44989a74d148336af9a65b6ed810f6',
     'force_disabled' => 'no',
-    'cached_at' => '2023-12-23 00:27:24',
+    'cached_at' => '2023-12-23 03:55:09',
     'cached_version' => '10.31',
     'cashed_domain' => 'http://livecanvas-prod.local',
     'legacy_status' => 'new',
