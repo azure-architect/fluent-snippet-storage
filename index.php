@@ -135,6 +135,31 @@ return array (
   ),
   'draft' => 
   array (
+    '1-blur-background.php' => 
+    array (
+      'name' => 'Blur background',
+      'description' => 'This is a the blur class used in creative tim\'s bootstap 5 ui kit "soft". https://www.creative-tim.co',
+      'type' => 'css',
+      'status' => 'draft',
+      'tags' => 'bootstrap,',
+      'created_at' => '',
+      'updated_at' => '',
+      'run_at' => 'all',
+      'priority' => 10,
+      'group' => 'BootStrap Enhancement Collection',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'file_name' => '1-blur-background.php',
+    ),
     '10-disable-xml-rpc.php' => 
     array (
       'name' => 'Disable XML-RPC',
@@ -184,6 +209,31 @@ return array (
         ),
       ),
       'file_name' => '11-4-enqueue-styles-on.php',
+    ),
+    '12-shiny-wipe-across-an.php' => 
+    array (
+      'name' => 'Shiny wipe across an image',
+      'description' => 'https://stackoverflow.com/questions/43744050/animated-light-reflection-on-image-in-css-or-jquery',
+      'type' => 'php_content',
+      'status' => 'draft',
+      'tags' => 'reflection, css',
+      'created_at' => '',
+      'updated_at' => '',
+      'run_at' => 'all',
+      'priority' => 10,
+      'group' => 'css-tricks',
+      'condition' => 
+      array (
+        'status' => 'no',
+        'run_if' => 'assertive',
+        'items' => 
+        array (
+          0 => 
+          array (
+          ),
+        ),
+      ),
+      'file_name' => '12-shiny-wipe-across-an.php',
     ),
     '7-allow-svgs.php' => 
     array (
@@ -276,9 +326,9 @@ return array (
   array (
     'secret_key' => '7e44989a74d148336af9a65b6ed810f6',
     'force_disabled' => 'no',
-    'cached_at' => '2023-12-20 03:37:59',
+    'cached_at' => '2023-12-23 00:27:24',
     'cached_version' => '10.31',
-    'cashed_domain' => 'http://snippets.local',
+    'cashed_domain' => 'http://livecanvas-prod.local',
     'legacy_status' => 'new',
     'auto_disable' => 'yes',
     'auto_publish' => 'no',
